@@ -24,7 +24,7 @@ body::before    {
     z-index: -1;
 }
 header{
-    background-color: rgba(252, 179, 255, 0.8);
+    background-color: rgba(169, 198, 252, 0.8);
     color: white; 
     padding: 10px 0;
     text-align: center;
